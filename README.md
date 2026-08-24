@@ -17,3 +17,4 @@ Sou um Analista e Desenvolvimento de Sistemas,apaixonado por criar soluções in
 *  **Design:** Figma
 
 *  **Outros:** Git, Metodologias Ágeis
+
