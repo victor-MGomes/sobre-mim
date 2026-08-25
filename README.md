@@ -1,5 +1,5 @@
 
-👋 Olá! Eu sou Victor Hugo Marculino Gomes
+### 👋 Olá! Eu sou Victor Hugo Marculino Gomes
 ### 🎓 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
@@ -40,8 +40,6 @@ Git e GitHub
 Banco de dados
 APIs
 Desenvolvimento de aplicações web
-### 🚀 Meus projetos
-Aqui você encontrará projetos desenvolvidos durante minha graduação e também projetos pessoais.
 
 Meu objetivo é utilizar cada projeto como uma oportunidade para colocar meus conhecimentos em prática e continuar evoluindo como desenvolvedor.
 
