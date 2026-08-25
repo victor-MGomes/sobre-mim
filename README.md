@@ -49,9 +49,9 @@ Busco constantemente evoluir minhas habilidades em programação e desenvolvimen
 Meu objetivo é adquirir experiência profissional, trabalhar em projetos reais e me tornar um desenvolvedor cada vez mais completo.
 
 ### 📫 Contato
-📧 E-mail: [seu e-mail]
+📧 E-mail: vmarculino21@gmail.com
 
-### 💼 LinkedIn: [seu LinkedIn]
+### 💼 LinkedIn: www.linkedin.com/in/victormarculino
 
 ### 🐙 GitHub: [seu GitHub]
 
